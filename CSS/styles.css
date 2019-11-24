@@ -1,0 +1,170 @@
+.topContainer {
+    text-align: center;
+    position: relative;
+   padding-top: 100px;
+   background-color: #EAF6F6;
+}
+.mountain{
+    display: inline-block;
+    
+}
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 470px;
+    top: 400px;
+    
+}
+h1{
+    color: #66BFBF;
+    font-size: 562.5%;
+    margin: auto;
+    margin-bottom: 0px;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+hr{
+  border-top: 8px dotted grey;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  width: 10%;
+}
+.hr2{
+    border: 8px dotted lightgrey;
+    border-left: 0;
+  border-right: 0;
+  border-bottom: 0;
+  width: 7%;
+    
+}
+.middleContainer {
+    
+    text-align: center;
+    padding-top: 40px;
+    
+}
+.aboutMe{
+    margin-bottom: 100px;
+}
+.my-img{
+    border-radius: 50%;
+    }
+.code-img{
+    border-radius: 50%;
+    width: 20%;
+    float: left;
+    clear: both;
+    margin-right: 30px;
+}
+
+.firstSkill{
+    
+    width: 50%;
+    margin: 20px auto 100px auto;
+    text-align: left;
+    overflow: hidden;
+    
+}
+.secondSkill{
+    width: 50%;
+    margin:  20px auto 100px auto;
+    text-align: left;
+    overflow: hidden;
+}
+.bottomContainer {
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 0;
+}
+.contactMe{
+    text-align: left;
+    width: 50%;
+    margin: 20px auto 10px auto;
+    overflow: hidden;
+}
+.buttonDiv{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 0;
+}
+
+
+body {
+    /* background-color: powderblue; */
+    margin: 0px;
+    font-family: 'Merriweather', serif;
+}
+/*
+}
+we set the default margins to zero to make it look nicer(it has 
+some defualt values that you can see on chrome developer tools)
+ */
+
+ .myButton {
+	background-color:#768d87;
+	border-radius:28px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #2b665e;
+}
+.myButton:hover {
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.tabBar{
+    background-color: #66BFBF;
+    height: 175px;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.anchors-class{
+    width: 50%;
+    margin: auto;
+    
+    position: relative;
+    left: auto;
+    right: auto;
+    top: 50px;   
+}
+.anchors{
+    color:  #11999E;
+    margin: 50px 30px 0 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    text-decoration: none;
+    
+}
+.copyrightP{
+    color: white;
+    font-size:small ;
+    margin-top: 10px;
+}
+.last{
+    margin-top: 40px;
+}
+
